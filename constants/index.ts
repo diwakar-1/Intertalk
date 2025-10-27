@@ -191,17 +191,17 @@ export const feedbackSchema = z.object({
 
 export const interviewCovers = [
   "/adobe.png",
-  "/Mongo.png",
+  "/Mongo.jpeg",
   "/facebook.png",
-  "/Microsoft.png",
+  "/Microsoft.jpeg",
   "/pinterest.png",
-  "/Google-Cloud.png",
-  "/AWS.png",
+  "/Google-Cloud.jpeg",
+  "/AWS.jpeg",
   "/skype.png",
-  "/Android.png",
+  "/Android.jpeg",
   "/telegram.png",
-  "/Snapchat.png",
-  "/Spotify.png",
+  "/Snapchat.jpeg",
+  "/Spotify.jpeg",
 
 ];
 
